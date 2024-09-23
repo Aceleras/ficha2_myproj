@@ -1,4 +1,7 @@
-$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”$cd “Desktop/IAPSI/ficha1_gitproj”:wq
+fjjjjjjjjjjjjjjjj fiz alteracoes 
+:wq
+
+Alterações efetuadas na nova branch
 :wq
 sssss
 
