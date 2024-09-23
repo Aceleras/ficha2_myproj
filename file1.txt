@@ -1,7 +1,11 @@
 fjjjjjjjjjjjjjjjj fiz alteracoes 
 :wq
 
-Alterações efetuadas na nova branch
+Alteração no branch MASTER
+
+Alteração no branch NOVAFEATURE
+
+Alterações efetuadas na nova branchLAL
 :wq
 sssss
 
